@@ -1,12 +1,32 @@
-# Dolly
+# Dolly App – Organization Overview
 
-| Repo | What it contains |
-|------|------------------|
-| [`dolly-frontend`](https://github.com/dolly-care/dolly-frontend) |  client |
-| [`dolly-backend`](https://github.com/dolly-care/dolly-backend)  | FastAPI REST API & services |
-| [`dolly-docs`](https://github.com/dolly-care/dolly-docs)        | Specs, design docs & onboarding |
-
+Dolly is a delivery-management platform that lets small businesses run their own last-mile logistics—no third-party couriers required.  
+This repository group contains all code and docs that power the product.
 
 ---
 
-© 2025 Dolly. MIT License.
+## Repositories
+
+| Repository            | Purpose                                 | Primary Tech |
+| --------------------- | --------------------------------------- | ------------ |
+| **dolly-backend**     | FastAPI service layer, business logic, CI/CD | Python 3.11, FastAPI |
+| **dolly-frontend**    | Client and admin dashboard             | |
+| **dolly-docs**        | Architecture, API references, product specs | Markdown / Diagrams |
+
+---
+
+## Teams
+
+| Team @mention            | Mission & Responsibilities | Default Repo Access |
+| ------------------------ | -------------------------- | ------------------- |
+| **@dolly-app/backend**   | Build and maintain the FastAPI backend, own API design, security, CI/CD pipelines, and deployments. | `write` / `maintain` on **dolly-backend** |
+| **@dolly-app/frontend**  | Develop and test the React/Vue frontend, ensure UX consistency, handle web performance and accessibility. | `write` / `maintain` on **dolly-frontend** |
+| **@dolly-app/docs**      | Produce and update specifications, architecture diagrams, and user/developer guides. | `write` on **dolly-docs** |
+| **@dolly-app/dev-team**  | Umbrella team combining *frontend* and *backend* for cross-cutting discussions and reviews. | Inherits from child teams |
+| **@dolly-app/all**       | Organization-wide announcements, global @mention. | Read-only all repos |
+
+> **Tip:** Tag an entire team in Issues or Pull Requests with `@team-name` to request reviews or start a discussion.  
+> Example: `@dolly-app/backend` for an API change, or `@dolly-app/docs` to update specs.
+
+
+Need help? Open an Issue in **dolly-docs** or tag the relevant team. Happy coding! 🚀
