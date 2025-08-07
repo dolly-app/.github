@@ -3,18 +3,6 @@
 Dolly is a delivery-management platform that lets small businesses run their own last-mile logistics—no third-party couriers required.  
 This repository group contains all code and docs that power the product.
 
----
-
-## Repositories
-
-| Repository            | Purpose                                 | Primary Tech |
-| --------------------- | --------------------------------------- | ------------ |
-| **dolly-backend**     | FastAPI service layer, business logic, CI/CD | Python 3.11, FastAPI |
-| **dolly-frontend**    | Client and admin dashboard             | |
-| **dolly-docs**        | Architecture, API references, product specs | Markdown / Diagrams |
-
----
-
 ## Teams
 
 | Team @mention            | Mission & Responsibilities | Default Repo Access |
