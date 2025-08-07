@@ -1,7 +1,5 @@
 # Dolly
 
-Core components of **Dolly**, a delivery app designed for small businesses to manage orders and shipments — all without third-party platforms.
-
 | Repo | What it contains |
 |------|------------------|
 | [`dolly-frontend`](https://github.com/dolly-care/dolly-frontend) |  client |
