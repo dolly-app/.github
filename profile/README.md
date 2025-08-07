@@ -27,6 +27,3 @@ This repository group contains all code and docs that power the product.
 
 > **Tip:** Tag an entire team in Issues or Pull Requests with `@team-name` to request reviews or start a discussion.  
 > Example: `@dolly-app/backend` for an API change, or `@dolly-app/docs` to update specs.
-
-
-Need help? Open an Issue in **dolly-docs** or tag the relevant team. Happy coding! 🚀
