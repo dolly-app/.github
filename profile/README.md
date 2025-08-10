@@ -3,6 +3,8 @@
 Dolly is a delivery-management platform that lets small businesses run their own last-mile logistics—no third-party couriers required.  
 This repository group contains all code and docs that power the product.
 
+**📂 Shared Drive:** [Dolly App – Project Documents](https://drive.google.com/drive/folders/1qJUVZylCwJ6hTRxCqrr4DWfLU66ZSBSX?usp=drive_link) – All planning, specs, and shared resources.
+
 ## Teams
 
 | Team @mention            | Mission & Responsibilities | Default Repo Access |
