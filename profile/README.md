@@ -13,7 +13,7 @@ This repository group contains all code and docs that power the product.
 | -------------------------- | ------- | -------------------------- | ------------------- |
 | **@dolly-app/backend**     | Or Ishlach<br>Paz Menachem<br> **Security:** Tzvi Nachshon | Build and maintain the FastAPI backend, own API design, security, CI/CD pipelines, and deployments. | `write` / `maintain` on **dolly-backend** |
 | **@dolly-app/frontend**    | Yair Yakobson<br>Tzvi Nachshon | Develop and test frontend, ensure UX consistency. | `write` / `maintain` on **dolly-frontend** |
-| **@dolly-app/dev**    | Or Ishlach (Dev?) | Cross-functional development discussions and reviews for both backend and frontend. | Inherits from child teams |
+| **@dolly-app/dev**    | Or Ishlach (?) | Cross-functional development discussions and reviews for both backend and frontend. | Inherits from child teams |
 | **@dolly-app/project-core**| Ben Harari | Oversee project management, timelines, and deliverables across all teams. | `maintain` all repos |
 | **@dolly-app/ux-ui**       | Yonatan Furman Lapin | Design UX/UI, maintain style guides, and support frontend implementation. | `read` on **dolly-frontend** |
 | **@dolly-app/all**         | All members | Organization-wide announcements, global @mention. | Read-only all repos |
